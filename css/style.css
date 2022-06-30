@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+
+header .conteiner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; }
+
+header .logo {
+  display: flex;
+  height: 9em; }
+
+header .conteiner2 {
+  display: flex;
+  justify-content: center; }
+
+header .conteiner3 {
+  display: flex;
+  align-items: center; }
+
+header nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 5em;
+  background-color: #6391f3; }
+  header nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.2em; }
+
+.section1 {
+  border-radius: 10%;
+  background-color: #eb9462;
+  margin-top: 5em;
+  margin-bottom: 5em; }
+  .section1 h2 {
+    text-align: center; }
+  .section1 h3 {
+    text-align: center; }
+
+.section2 {
+  margin-bottom: 5em; }
+  .section2 .title2 {
+    text-align: center;
+    margin-bottom: 2em; }
+  .section2 .s1 {
+    display: flex;
+    justify-content: space-between;
+    text-align: center; }
+  .section2 .circle {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px; }
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5em;
+  background-color: #eb9462; }
+
+col {
+  display: flex;
+  justify-content: space-between; }
+
+.logo2 {
+  height: 9em; }
+
+.form h3 {
+  text-align: center;
+  margin-top: 5em; }
+
+.form .form1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+  margin-bottom: 2em; }
+
+.form .form3 {
+  display: flex;
+  justify-content: center; }
+
+.form .button {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em; }
+
+.form .ubication {
+  display: flex;
+  justify-content: center;
+  margin-top: 5em; }

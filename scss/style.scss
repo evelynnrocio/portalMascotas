@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@import "partials/header";
+@import "partials/section1";
+@import "partials/section2";
+@import "partials/form";
+@import "partials/footer";
+@import "../scss/base/base";
+

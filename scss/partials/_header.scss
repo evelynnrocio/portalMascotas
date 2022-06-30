@@ -1,0 +1,33 @@
+header{
+
+    .conteiner{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logo{
+        display: flex;
+        height: 9em;
+    }
+    .conteiner2{
+        display: flex;
+        justify-content: center;
+    }
+    .conteiner3{
+        display: flex;
+        align-items: center;
+    }
+    nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        height: 5em;
+        background-color: $color-secundario;
+
+        a{
+            text-decoration: none;
+            color: #fff;
+            font-size: 1.2em;
+        }
+    }
+}

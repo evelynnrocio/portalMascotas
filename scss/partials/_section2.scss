@@ -1,0 +1,19 @@
+.section2{
+    margin-bottom: 5em;
+
+    .title2{
+        text-align: center;
+        margin-bottom: 2em;
+    }
+    
+    .s1{
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+    }
+    .circle{
+        border-radius: 100%;
+        width: 150px;
+        height: 150px;
+    }
+}
